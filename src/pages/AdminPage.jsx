@@ -88,7 +88,6 @@ const AdminPage = () => {
               type="password"
               value={password}
               onChange={(event) => setPassword(event.target.value)}
-              placeholder="Senha configurada no Vercel"
               autoComplete="current-password"
             />
           </label>
