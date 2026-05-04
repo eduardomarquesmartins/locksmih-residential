@@ -1,0 +1,208 @@
+{
+    "nav": {
+        "about": "Sobre Nós",
+        "services": "Serviços 24h",
+        "portfolio": "Trabalhos",
+        "brands": "Marcas",
+        "zones": "Onde Atendemos",
+        "contact": "CONTATO"
+    },
+    "mobileMenu": {
+        "about": "Quem Somos",
+        "services": "O que Fazemos",
+        "portfolio": "Trabalhos Realizados",
+        "brands": "Marcas que Usamos",
+        "zones": "Zonas de Atendimento"
+    },
+    "hero": {
+        "title1": "CHAVEIRO",
+        "title2": "RESIDENCIAL 24H",
+        "subtitle_badge": "URGÊNCIAS 24 HORAS",
+        "subtitle_text": "Especialistas em abertura de portas sem estragos, troca de fechaduras e reparação de canhões. Atendimento rápido para sua casa em toda a região.",
+        "card_status": "Atendimento 24h",
+        "card_role": "Técnico Disponível",
+        "call_now": "Llamar Agora",
+        "write_us": "Escreva-nos"
+    },
+    "sales_cta": { "live_status": "TÉCNICO DISPONÍVEL AGORA",
+        "title": "Trancado para fora? Resolvemos AGORA!",
+        "subtitle": "Técnicos especialistas a caminho. Abrimos sua porta em tempo recorde. Orçamento GRÁTIS por telefone!",
+        "call_btn": "LIGAR AGORA",
+        "wa_btn": "CONSULTAR"
+    },
+    "emergency_cases": {
+        "title": "Problemas com a sua porta ou chaves?",
+        "subtitle": "Chaveiros profissionais prontos para sair agora. Qual é o seu caso?",
+        "case1_title": "Ficou de Fora?",
+        "case1_desc": "Abrimos a sua porta rapidamente e sem causar danos. Se esqueceu as chaves dentro ou a porta bateu, resolvemos em minutos.",
+        "case2_title": "Chave Encravada?",
+        "case2_desc": "A chave não gira ou partiu dentro da fechadura? Reparamos ou trocamos o cilindro na hora para que possa voltar a entrar em casa.",
+        "case3_title": "Trocar Fechadura?",
+        "case3_desc": "Precisa de chaves novas ou quer mudar o segredo da porta? Instalamos novas fechaduras e canhões de todas as marcas imediatamente.",
+        "btn": "Chamar Técnico Agora"
+    },
+    "about": {
+        "tag": "Chaveiros Especialistas",
+        "title": "Serviços de Chaveiro para sua Casa",
+        "subtitle": "Soluções rápidas e eficazes para qualquer problema de fechaduras.",
+        "p1": "Na Locksmith Solutions, somos especialistas em resolver imprevistos com portas e chaves residenciais. O nosso foco é garantir que nunca fique de fora e que as suas fechaduras funcionem perfeitamente.",
+        "p2": "Trabalhamos com as melhores ferramentas e peças do mercado para resolver 99% dos problemas na primeira visita, sem complicações e com total transparência."
+    },
+    "trust_cta": {
+        "badge": "100% PROFISSIONAL",
+        "title": "Especialistas em Manutenção e Aberturas",
+        "subtitle": "Soluções rápidas para as suas fechaduras. Técnicos de confiança para reparações e instalações imediatas com garantia total.",
+        "wa_btn": "WHATSAPP",
+        "call_btn": "LIGAR AGORA"
+    },
+    "portfolio": {
+        "tag": "Serviços Recentes",
+        "title": "O que temos feito",
+        "desc": "Veja exemplos de aberturas e trocas de fechaduras realizadas pelos nossos técnicos em toda a província.",
+        "btn_view": "Ver Trabalho"
+    },
+    "services": {
+        "tag": "Especialidades",
+        "title": "SERVIÇOS DE CHAVEIRO",
+        "desc": "Soluções completas para todas as portas e sistemas de fecho da sua residência.",
+        "locks_title": "TROCA DE FECHADURAS",
+        "locks_desc": "Instalação de novas fechaduras e sistemas de fecho modernos para substituir os antigos ou avariados.",
+        "auto_title": "MUDANÇA DE CANHÃO",
+        "auto_desc": "Substituição rápida do cilindro (canhão) por perda de chaves, roubo ou mudança de casa. Chaves novas na hora.",
+        "keys_title": "CÓPIAS DE CHAVES",
+        "keys_desc": "Fazemos duplicados de chaves de segurança e normais com precisão eletrónica para um funcionamento suave.",
+        "vehicle_locks_title": "PORTAS DE GARAGEM E LOJAS",
+        "vehicle_locks_desc": "Reparação e abertura de fechaduras em persianas metálicas, garagens e portões residenciais.",
+        "emergency_title": "ABERTURA SEM ESTRAGOS",
+        "emergency_desc": "Abrimos portas blindadas, acorazadas e normais sem partir nada. Usamos técnicas profissionais de manipulação.",
+        "access_title": "URGÊNCIAS 24H/7",
+        "access_desc": "Carrinhas equipadas e prontas a sair. Atendemos a qualquer hora, incluindo feriados e fins de semana."
+    },
+    "why_choose": {
+        "tag": "Vantagens",
+        "title": "Chaveiro de Confiança perto de si",
+        "desc": "Escolher a Locksmith Solutions significa rapidez no atendimento e um serviço técnico de alta qualidade para a sua casa.",
+        "col1_title": "Qualidade Premium",
+        "col1_desc": "Oferecemos o melhor serviço de chaveiro residencial com a melhor relação qualidade-preço.",
+        "how_tag": "COMO FUNCIONA",
+        "how_title": "Cuidando da sua casa <br/> como se fosse nossa",
+        "col3_percent": "100%",
+        "col3_desc": "Dos nossos clientes ficam satisfeitos com a rapidez da nossa intervenção técnica.",
+        "btn_call": "Falar com Chaveiro"
+    },
+    "steps": {
+        "step1_title": "Ligue para Nós",
+        "step1_desc": "Explique o que aconteceu com a sua porta ou chave. Damos-lhe uma previsão de chegada imediata.",
+        "step2_title": "Orçamento no Local",
+        "step2_desc": "O técnico avalia o serviço e indica o valor justo para a reparação ou abertura antes de começar.",
+        "step3_title": "Serviço Concluído",
+        "step3_desc": "Resolvemos o problema na hora, testamos tudo consigo e deixamos o local limpo e operacional."
+    },
+    "testimonials": {
+        "tag": "Feedback",
+        "title": "O QUE DIZEM OS CLIENTES",
+        "desc": "Relatos reais de quem precisou de um chaveiro urgente e confiou no nosso trabalho.",
+        "client": "Cliente Satisfeito",
+        "t1_text": "FORAM MUITO RÁPIDOS A CHEGAR!",
+        "t2_text": "Fiquei de fora de casa à noite e em 20 minutos o chaveiro já tinha aberto a porta sem estragar a fechadura.",
+        "t3_text": "Trocaram o canhão da minha porta blindada no próprio dia. Profissionais muito educados e competentes."
+    },
+    "cta": {
+        "tag": "Precisa de um Chaveiro?",
+        "title": "Abertura de Portas Urgente <br /> e Troca de Fechaduras 24h"
+    },
+    "areas": {
+        "tag": "Cobertura Local",
+        "title": "Zonas onde Trabalhamos",
+        "desc": "Estamos espalhados por toda a região para garantir que chegamos à sua casa o mais depressa possível."
+    },
+    "city_page": {
+        "title": "Chaveiro em {{city}} 24h | Abertura de Portas e Troca de Fechaduras",
+        "hero_tag": "CHAVEIRO URGENTE",
+        "call_btn": "Ligar: +34 602 659 054",
+        "wa_btn": "Escreva-nos",
+        "why_us": "Porquê escolher o nosso serviço em {{city}}?",
+        "arrival": "Chegada em 20-30 minutos",
+        "price": "Preços Claros e Acessíveis",
+        "no_damage": "Abertura Técnica sem Danos",
+        "warranty": "Garantia em todos os serviços",
+        "intro_title": "Chaveiro Residencial em {{city}}",
+        "intro_text": "Esqueceu as chaves dentro de casa ou a fechadura avariou em {{city}}? Não entre em pânico. Na Locksmith Solutions, somos especialistas em resolver esses problemas domésticos com rapidez. Se está em {{city}} e não consegue entrar na sua casa, o nosso chaveiro de serviço está pronto para o ajudar agora mesmo, de forma profissional e eficiente.",
+        "advantages_title": "O nosso serviço de Chaveiro 24 Horas em {{city}}",
+        "advantages_text": "Estamos disponíveis 24 horas por dia, 7 dias por semana em toda a área de {{city}}. Não importa se é dia ou noite, temos sempre um técnico de prevenção para garantir que recupera o acesso à sua morada sem demora.",
+        "how_works_title": "Como chamar um chaveiro em {{city}} agora?",
+        "how_works_text": "Basta fazer uma chamada. Diga-nos a sua localização em {{city}} e o tipo de problema (porta trancada, chave partida, etc.). Enviaremos o técnico mais próximo de si imediatamente, equipado para resolver a situação no local.",
+        "solutions_tag": "O que Fazemos",
+        "solutions_title": "Soluções Práticas para as suas Portas",
+        "solutions_desc": "Temos o conhecimento e as ferramentas para lidar com qualquer imprevisto nas fechaduras de sua casa:",
+        "sol1": "Abertura de Portas Trancadas",
+        "sol1_desc": "Abrimos a sua porta de casa usando métodos profissionais que não danificam a fechadura nem a porta.",
+        "sol2": "Mudança de Canhões/Cilindros",
+        "sol2_desc": "Trocamos o segredo da sua porta instalando um novo canhão com chaves novas na hora.",
+        "sol3": "Reparação de Fechaduras",
+        "sol3_desc": "Se a fechadura está dura ou não funciona bem, fazemos a manutenção ou substituição das peças gastas.",
+        "sol4": "Fechaduras Inteligentes",
+        "sol4_desc": "Instalamos e configuramos fechaduras eletrónicas e digitais para maior conveniência no seu dia a dia.",
+        "sol5": "Serviço de Urgência 24h",
+        "sol5_desc": "Atendimento imediato para qualquer situação de bloqueio ou perda de chaves em residências.",
+        "neighborhoods_tag": "Proximidade",
+        "neighborhoods_title": "Atendimento em todos os Bairros de {{city}}",
+        "neighborhoods_desc": "Cobrimos todas as zonas e arredores de {{city}}. Temos técnicos móveis posicionados para garantir uma resposta rápida:",
+        "special_title": "Chaveiro Técnico em {{city}}",
+        "special_desc": "Somos especialistas em aberturas de portas sem causar danos. Se a sua porta em {{city}} bateu com a chave por dentro, resolvemos sem precisar de trocar a fechadura em 90% dos casos.",
+        "faq_title": "Perguntas Frequentes",
+        "faq_q1": "Quanto tempo demora o chaveiro a chegar à minha morada em {{city}}?",
+        "faq_a1": "Tentamos sempre chegar o mais rápido possível. Em {{city}}, o tempo médio de espera é entre 20 a 30 minutos. O nosso técnico avisa-o quando estiver a chegar.",
+        "internal_link1": "Para resolver o seu problema, confie no nosso <0>serviço de chaveiro em {{city}}</0>.",
+        "internal_link2": "Consulte todos os nossos serviços na <0>página inicial</0>."
+    },
+    "location": {
+        "tag": "Onde Estamos",
+        "title": "Localização do Serviço",
+        "address_title": "Base de Operações:"
+    },
+    "brands_section": {
+        "tag": "Material de Qualidade",
+        "title": "Trabalhamos com as Principais Marcas",
+        "desc": "Usamos fechaduras e canhões das marcas mais conhecidas: Tesa, Lince, Fichet, MCM e Cisa, garantindo durabilidade."
+    },
+    "cars_section": {
+        "tag": "Equipa Técnica",
+        "title": "Chaveiros Profissionais ao seu Serviço"
+    },
+    "footer": {
+        "desc": "Ajudamos as famílias da região a resolver problemas de fechaduras com rapidez, técnica e honestidade.",
+        "company": "A Empresa",
+        "nav_home": "Início",
+        "nav_about": "Quem Somos",
+        "nav_services": "Serviços",
+        "nav_portfolio": "Trabalhos",
+        "nav_zones": "Onde Atendemos",
+        "social": "Redes Sociais",
+        "contact": "Contacto Urgente",
+        "aviso": "AVISO LEGAL",
+        "privacidad": "PRIVACIDADE",
+        "cookies": "COOKIES",
+        "rights": "© 2026 Locksmith Solutions. Chaveiro Residencial 24h. Todos os direitos reservados."
+    },
+    "cookies": {
+        "title": "Uso de Cookies",
+        "desc": "Usamos cookies para que o site funcione melhor. Pode aceitar ou escolher quais prefere utilizar.",
+        "accept": "Aceitar",
+        "decline": "Recusar",
+        "settings": "Configurar",
+        "hide_settings": "Fechar",
+        "tech_title": "AVISO LEGAL",
+        "tech_desc": "Informações legais sobre a utilização deste site.",
+        "analysis_title": "POLÍTICA DE PRIVACIDADE",
+        "analysis_desc": "Como tratamos os seus dados pessoais.",
+        "marketing_title": "POLÍTICA DE COOKIES",
+        "marketing_desc": "Detalhes sobre os cookies que utilizamos.",
+        "read_more": "Saber mais"
+    },
+    "inline_cta1": {
+        "title": "Não fique de fora! A sua casa está a um passo.",
+        "subtitle": "Técnico na sua porta em menos de 20 min. Abertura mestra garantida SEM partir nem arranhar nada. O melhor preço da zona.",
+        "btn": "ENVIAR TÉCNICO URGENTE"
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "nav": {
+        "about": "À Propos",
+        "services": "Services 24h/24",
+        "portfolio": "Nos Travaux",
+        "brands": "Marques",
+        "zones": "Où Nous Sommes",
+        "contact": "CONTACT"
+    },
+    "mobileMenu": {
+        "about": "Qui Sommes-Nous",
+        "services": "Ce Que Nous Faisons",
+        "portfolio": "Travaux Réalisés",
+        "brands": "Marques Utilisées",
+        "zones": "Zones de Service"
+    },
+    "hero": {
+        "title1": "SERRURIER",
+        "title2": "RÉSIDENTIEL 24H",
+        "subtitle_badge": "URGENCES 24 HEURES",
+        "subtitle_text": "Spécialistes de l'ouverture de portes sans dégâts, du changement de serrures et de la réparation de cylindres. Service rapide pour votre domicile.",
+        "card_status": "Service 24h/24",
+        "card_role": "Technicien Disponible",
+        "call_now": "Appeler Maintenant",
+        "write_us": "WhatsApp"
+    },
+    "sales_cta": { "live_status": "TECHNICIEN DISPONIBLE MAINTENANT",
+        "title": "Bloqué dehors ? On vous aide MAINTENANT !",
+        "subtitle": "Techniciens experts en route. On ouvre votre porte en temps record. Devis GRATUIT par téléphone !",
+        "call_btn": "APPELER MAINTENANT",
+        "wa_btn": "DEVIS GRATUIT"
+    },
+    "emergency_cases": {
+        "title": "Problèmes avec votre porte ou vos clés ?",
+        "subtitle": "Serruriers professionnels prêts à partir maintenant. Quel est votre cas ?",
+        "case1_title": "Porte Bloquée ?",
+        "case1_desc": "Nous ouvrons votre porte rapidement et sans dommage. Si vous avez oublié les clés à l'intérieur, nous résolvons cela en quelques minutes.",
+        "case2_title": "Clé Coincée ?",
+        "case2_desc": "La clé ne tourne pas ou s'est cassée à l'intérieur ? Nous réparons ou remplaçons le cylindre sur place immédiatement.",
+        "case3_title": "Changer de Serrure ?",
+        "case3_desc": "Besoin de nouvelles clés ou vous voulez changer le secret de la porte ? Nous installons de nouvelles serrures toutes marques.",
+        "btn": "Appeler un Technicien"
+    },
+    "trust_cta": {
+        "badge": "100% PROFESSIONNEL",
+        "title": "Experts en Maintenance et Ouvertures",
+        "subtitle": "Solutions rapides pour vos serrures. Techniciens de confiance pour réparations et installations immédiates avec garantie totale.",
+        "wa_btn": "WHATSAPP",
+        "call_btn": "APPELER MAINTENANT"
+    },
+    "about": {
+        "tag": "Serruriers Experts",
+        "title": "Services de Serrurerie pour votre Foyer",
+        "subtitle": "Solutions rapides et efficaces pour tout problème de serrure.",
+        "p1": "Chez Locksmith Solutions, nous sommes spécialisés dans la résolution d'imprévus avec les portes et clés résidentielles. Notre objectif est que vous ne restiez jamais dehors.",
+        "p2": "Nous travaillons avec les meilleurs outils pour résoudre 99 % des problèmes dès la première visite, sans complications."
+    },
+    "portfolio": {
+        "tag": "Travaux Récents",
+        "title": "Ce que nous avons fait",
+        "desc": "Découvrez des exemples d'ouvertures et de changements de serrures réalisés par nos techniciens.",
+        "btn_view": "Voir le Travail"
+    },
+    "services": {
+        "tag": "Spécialités",
+        "title": "SERVICES DE SERRURERIE",
+        "desc": "Solutions complètes pour toutes les portes et systèmes de fermeture de votre résidence.",
+        "locks_title": "CHANGEMENT DE SERRURE",
+        "locks_desc": "Installation de nouvelles serrures et systèmes de fermeture modernes pour remplacer les anciens ou défectueux.",
+        "auto_title": "CHANGEMENT DE CYLINDRE",
+        "auto_desc": "Remplacement rapide du cylindre (barillet) suite à une perte de clés, vol ou déménagement. Nouvelles clés sur place.",
+        "keys_title": "DOUBLE DE CLÉS",
+        "keys_desc": "Nous réalisons des doubles de clés de sécurité et standard avec précision électronique pour un fonctionnement fluide.",
+        "vehicle_locks_title": "PORTES DE GARAGE ET COMMERCES",
+        "vehicle_locks_desc": "Réparation et ouverture de serrures sur rideaux métalliques, garages et portails résidentiels.",
+        "emergency_title": "OUVERTURE SANS DÉGÂTS",
+        "emergency_desc": "Nous ouvrons les portes blindées, renforcées et normales sans rien casser grâce à des techniques professionnelles.",
+        "access_title": "URGENCES 24H/24",
+        "access_desc": "Unités mobiles équipées et prêtes à partir. Nous intervenons à toute heure, y compris les jours fériés."
+    },
+    "why_choose": {
+        "tag": "Avantages",
+        "title": "Serrurier de Confiance près de chez vous",
+        "desc": "Choisir Locksmith Solutions signifie rapidité d'intervention et un service technique de haute qualité pour votre domicile.",
+        "col1_title": "Qualité Premium",
+        "col1_desc": "Nous offrons le meilleur service de serrurerie résidentielle, avec le meilleur rapport qualité-prix.",
+        "how_tag": "COMMENT ÇA MARCHE",
+        "how_title": "Prendre soin de votre foyer <br/> comme s'il était le nôtre",
+        "col3_percent": "100%",
+        "col3_desc": "De nos clients sont satisfaits de la rapidité de notre intervention technique.",
+        "btn_call": "Parler à un Serrurier"
+    },
+    "steps": {
+        "step1_title": "Appelez-nous",
+        "step1_desc": "Expliquez ce qui est arrivé à votre porte ou clé. Nous vous donnons une estimation d'arrivée immédiate.",
+        "step2_title": "Devis sur Place",
+        "step2_desc": "Le technicien évalue le service et indique le juste prix avant de commencer le travail.",
+        "step3_title": "Service Terminé",
+        "step3_desc": "Nous résolvons le problème sur place, testons tout avec vous et laissons les lieux propres."
+    },
+    "testimonials": {
+        "tag": "Avis Clients",
+        "title": "CE QUE DISENT LES CLIENTS",
+        "desc": "Témoignages réels de personnes ayant eu besoin d'un serrurier urgent.",
+        "client": "Client Satisfait",
+        "t1_text": "ILS SONT ARRIVÉS TRÈS VITE !",
+        "t2_text": "Je suis resté dehors la nuit et en 20 minutes le serrurier avait déjà ouvert la porte sans rien casser.",
+        "t3_text": "Ils ont changé le barillet de ma porte blindée le jour même. Professionnels très compétents."
+    },
+    "cta": {
+        "tag": "Besoin d'un Serrurier ?",
+        "title": "Ouverture de Porte Urgente <br /> & Changement de Serrure 24h/24"
+    },
+    "areas": {
+        "tag": "Couverture Locale",
+        "title": "Zones d'Intervention",
+        "desc": "Nous sommes répartis dans toute la région pour garantir une arrivée rapide à votre domicile."
+    },
+    "city_page": {
+        "title": "Serrurier à {{city}} 24h/24 | Ouverture de Porte et Changement de Serrure",
+        "hero_tag": "SERRURIER URGENT",
+        "call_btn": "Appeler : +34 602 659 054",
+        "wa_btn": "WhatsApp : Devis Rapide",
+        "why_us": "Pourquoi choisir notre service à {{city}} ?",
+        "arrival": "Arrivée en 20-30 minutes",
+        "price": "Tarifs Clairs et Abordables",
+        "no_damage": "Ouverture Technique sans Dégâts",
+        "warranty": "Garantie sur tous les services",
+        "intro_title": "Serrurier Résidentiel à {{city}}",
+        "intro_text": "Clés oubliées à l'intérieur ou serrure en panne à {{city}} ? Pas de panique. Chez Locksmith Solutions, nous sommes experts pour résoudre ces problèmes domestiques rapidement.",
+        "advantages_title": "Notre service de Serrurier 24 Heures à {{city}}",
+        "advantages_text": "Nous sommes disponibles 24h/24 et 7j/7 dans toute la zone de {{city}}. Peu importe l'heure, un technicien est prêt à vous aider.",
+        "how_works_title": "Comment appeler un serrurier à {{city}} maintenant ?",
+        "how_works_text": "Appelez simplement. Donnez-nous votre position à {{city}} et le problème. Nous envoyons le technicien le plus proche immédiatement.",
+        "solutions_tag": "Ce Que Nous Faisons",
+        "solutions_title": "Solutions Pratiques pour vos Portes",
+        "solutions_desc": "Nous avons l'expertise pour gérer tout imprévu avec vos serrures :",
+        "sol1": "Ouverture de Portes Claquées",
+        "sol1_desc": "Nous ouvrons votre porte en utilisant des méthodes professionnelles qui n'endommagent pas la serrure.",
+        "sol2": "Changement de Cylindre/Barillet",
+        "sol2_desc": "Nous changeons les clés de votre porte en installant un nouveau cylindre sur place.",
+        "sol3": "Réparation de Serrures",
+        "sol3_desc": "Si la serrure est dure ou fonctionne mal, nous effectuons la maintenance ou le remplacement.",
+        "sol4": "Serrures Intelligentes",
+        "sol4_desc": "Nous installons des serrures électroniques pour plus de confort au quotidien.",
+        "sol5": "Service d'Urgence 24h/24",
+        "sol5_desc": "Assistance immédiate pour toute perte de clés en résidence.",
+        "neighborhoods_tag": "Proximité",
+        "neighborhoods_title": "Service dans tous les Quartiers de {{city}}",
+        "neighborhoods_desc": "Nous couvrons tous les secteurs de {{city}}. Nos techniciens mobiles assurent une réponse rapide.",
+        "special_title": "Serrurier Technique à {{city}}",
+        "special_desc": "Experts en ouverture sans dégâts. Si votre porte à {{city}} a claqué avec la clé à l'intérieur, nous réglons cela sans changer la serrure.",
+        "faq_title": "FAQ",
+        "faq_q1": "Combien de temps faut-il au serrurier pour arriver à {{city}} ?",
+        "faq_a1": "Nous essayons d'arriver le plus vite possible. À {{city}}, le délai moyen est de 20 à 30 minutes.",
+        "internal_link1": "Pour résoudre votre problème, faites confiance à notre <0>service de serrurier à {{city}}</0>.",
+        "internal_link2": "Consultez nos services sur la <0>page d'accueil</0>."
+    },
+    "location": {
+        "tag": "Où Nous Sommes",
+        "title": "Lieu du Service",
+        "address_title": "Base d'Opérations :"
+    },
+    "brands_section": {
+        "tag": "Matériel de Qualité",
+        "title": "Marques Utilisées",
+        "desc": "Nous utilisons des serrures des marques les plus connues : Tesa, Lince, Fichet, MCM et Cisa."
+    },
+    "cars_section": {
+        "tag": "Équipe Technique",
+        "title": "Serruriers Professionnels à votre Service"
+    },
+    "footer": {
+        "desc": "Nous aidons les familles de la région à résoudre leurs problèmes de serrures avec rapidité, technique et honnêteté.",
+        "company": "L'Entreprise",
+        "nav_home": "Accueil",
+        "nav_about": "À Propos",
+        "nav_services": "Services",
+        "nav_portfolio": "Travaux",
+        "nav_zones": "Zones de Service",
+        "social": "Réseaux Sociaux",
+        "contact": "Contact d'Urgence",
+        "aviso": "MENTIONS LÉGALES",
+        "privacidad": "CONFIDENTIALITÉ",
+        "cookies": "COOKIES",
+        "rights": "© 2026 Locksmith Solutions. Serrurier Résidentiel 24h. Tous droits réservés."
+    },
+    "cookies": {
+        "title": "Utilisation de Cookies",
+        "desc": "Nous utilisons des cookies pour améliorer le site. Vous pouvez accepter ou configurer vos préférences.",
+        "accept": "Accepter",
+        "decline": "Refuser",
+        "settings": "Configurer",
+        "hide_settings": "Fermer",
+        "tech_title": "MENTIONS LÉGALES",
+        "tech_desc": "Informations légales sur l'utilisation de ce site.",
+        "analysis_title": "POLITIQUE DE CONFIDENTIALITÉ",
+        "analysis_desc": "Comment nous traitons vos données personnelles.",
+        "marketing_title": "POLITIQUE DE COOKIES",
+        "marketing_desc": "Détails sur les cookies que nous utilisons.",
+        "read_more": "En savoir plus"
+    },
+    "inline_cta1": {
+        "title": "Ne restez pas dehors ! Votre maison est à un pas.",
+        "subtitle": "Technicien chez vous en moins de 20 min. Ouverture experte GARANTIE sans rien abimer. Meilleur prix de la zone.",
+        "btn": "ENVOYER UN TECHNICIEN URGENT"
+    }
+}
