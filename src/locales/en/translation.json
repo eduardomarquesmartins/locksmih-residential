@@ -1,0 +1,225 @@
+{
+    "nav": {
+        "about": "About",
+        "services": "24h Services",
+        "portfolio": "Our Work",
+        "brands": "Brands",
+        "zones": "Service Areas",
+        "contact": "CONTACT"
+    },
+    "mobileMenu": {
+        "about": "About Us",
+        "services": "What We Do",
+        "portfolio": "Completed Work",
+        "brands": "Brands We Use",
+        "zones": "Where We Are"
+    },
+    "hero": {
+        "title1": "RESIDENTIAL",
+        "title2": "LOCKSMITH 24H",
+        "subtitle_badge": "24-HOUR EMERGENCIES",
+        "subtitle_text": "Specialists in damage-free door opening, lock replacement, and cylinder repairs. Fast on-site service for your home across the region.",
+        "card_status": "24h Service",
+        "card_role": "Technician Available",
+        "call_now": "Call Now",
+        "write_us": "WhatsApp"
+    },
+    "sales_cta": { "live_status": "EXPERT TECHNICIAN AVAILABLE NOW",
+        "title": "Locked out? We help you NOW!",
+        "subtitle": "Expert technicians on the way. We open your door in record time. FREE quote over the phone!",
+        "call_btn": "CALL NOW",
+        "wa_btn": "GET QUOTE"
+    },
+    "emergency_cases": {
+        "title": "Problems with your door or keys?",
+        "subtitle": "Professional locksmiths ready to go now. What is your case?",
+        "case1_title": "Locked Out?",
+        "case1_desc": "We open your door quickly without damage. If you left your keys inside or the door slammed shut, we solve it in minutes.",
+        "case2_title": "Stuck Key?",
+        "case2_desc": "Key won't turn or broke inside the lock? We repair or replace the cylinder on the spot so you can get back in.",
+        "case3_title": "Need a New Lock?",
+        "case3_desc": "Need new keys or want to change the lock? We install new locks and cylinders of all brands immediately.",
+        "btn": "Call Technician Now"
+    },
+    "about": {
+        "tag": "Expert Locksmiths",
+        "title": "Locksmith Services for Your Home",
+        "subtitle": "Fast and effective solutions for any lock problem.",
+        "p1": "At Locksmith Solutions, we specialize in solving residential door and key issues. Our goal is to ensure you're never locked out and your locks work perfectly.",
+        "p2": "We work with top-tier tools and parts to solve 99% of problems on the first visit, with no hassle and full transparency."
+    },
+    "trust_cta": {
+        "badge": "100% PROFESSIONAL",
+        "title": "Maintenance and Opening Experts",
+        "subtitle": "Quick solutions for your locks. Trusted technicians for immediate repairs and installations with full guarantee.",
+        "wa_btn": "WHATSAPP",
+        "call_btn": "CALL NOW"
+    },
+    "portfolio": {
+        "tag": "Recent Work",
+        "title": "What we've been doing",
+        "desc": "Check out examples of door openings and lock changes performed by our technicians across the province.",
+        "btn_view": "View Work"
+    },
+    "services": {
+        "tag": "Specialties",
+        "title": "LOCKSMITH SERVICES",
+        "desc": "Complete solutions for all doors and locking systems in your residence.",
+        "locks_title": "LOCK REPLACEMENT",
+        "locks_desc": "Installation of new locks and modern locking systems to replace old or broken ones.",
+        "auto_title": "CYLINDER CHANGE",
+        "auto_desc": "Quick cylinder replacement due to lost keys, theft, or moving house. New keys on the spot.",
+        "keys_title": "KEY DUPLICATION",
+        "keys_desc": "We make precision duplicates of security and standard keys for smooth operation.",
+        "vehicle_locks_title": "GARAGE & SHOP DOORS",
+        "vehicle_locks_desc": "Repair and opening of locks on metal shutters, garages, and residential gates.",
+        "emergency_title": "DAMAGE-FREE OPENING",
+        "emergency_desc": "We open all types of doors without breaking anything using professional manipulation techniques.",
+        "access_title": "24/7 EMERGENCIES",
+        "access_desc": "Equipped vans ready to go. We assist at any time, including holidays and weekends."
+    },
+    "why_choose": {
+        "tag": "Advantages",
+        "title": "Trusted Locksmith near you",
+        "desc": "Choosing Locksmith Solutions means fast response and high-quality technical service for your home.",
+        "col1_title": "Premium Quality",
+        "col1_desc": "We offer the best residential locksmith service with the best quality-price ratio.",
+        "how_tag": "HOW IT WORKS",
+        "how_title": "Caring for your home <br/> as if it were our own",
+        "col3_percent": "100%",
+        "col3_desc": "Of our clients are satisfied with the speed of our technical intervention.",
+        "btn_call": "Talk to Locksmith"
+    },
+    "steps": {
+        "step1_title": "Call Us",
+        "step1_desc": "Explain what happened to your door or key. We'll give you an immediate arrival estimate.",
+        "step2_title": "On-site Quote",
+        "step2_desc": "The technician evaluates the job and provides a fair price for the repair or opening before starting.",
+        "step3_title": "Job Done",
+        "step3_desc": "We solve the problem on the spot, test everything with you, and leave the area clean and functional."
+    },
+    "testimonials": {
+        "tag": "Feedback",
+        "title": "WHAT CUSTOMERS SAY",
+        "desc": "Real stories from people who needed an urgent locksmith and trusted our work.",
+        "client": "Satisfied Customer",
+        "t1_text": "THEY ARRIVED VERY FAST!",
+        "t2_text": "I was locked out at night and in 20 minutes the locksmith had opened the door without damaging the lock.",
+        "t3_text": "They changed my front door cylinder the same day. Very polite and competent professionals."
+    },
+    "cta": {
+        "tag": "Need a Locksmith?",
+        "title": "Urgent Door Opening <br /> & 24h Lock Replacement"
+    },
+    "areas": {
+        "tag": "Local Coverage",
+        "title": "Areas We Serve",
+        "desc": "We are spread across the region to ensure we reach your home as quickly as possible."
+    },
+    "city_page": {
+        "title": "Locksmith in {{city}} 24h | Door Opening & Lock Replacement",
+        "hero_tag": "URGENT LOCKSMITH",
+        "call_btn": "Call: +34 602 659 054",
+        "wa_btn": "WhatsApp",
+        "why_us": "Why choose our service in {{city}}?",
+        "arrival": "Arrival in 20-30 minutes",
+        "price": "Clear and Affordable Prices",
+        "no_damage": "Damage-Free Technical Opening",
+        "warranty": "Warranty on all services",
+        "intro_title": "Residential Locksmith in {{city}}",
+        "intro_text": "Forgot your keys inside or did the lock fail in {{city}}? Don't panic. At Locksmith Solutions, we specialize in solving these home issues fast. If you're in {{city}} and can't get into your house, our on-duty locksmith is ready to help you right now.",
+        "advantages_title": "Our 24-Hour Locksmith Service in {{city}}",
+        "advantages_text": "We are available 24/7 throughout the {{city}} area. No matter if it's day or night, we always have a technician on call to get you back into your home.",
+        "how_works_title": "How to call a locksmith in {{city}} now?",
+        "how_works_text": "Just make a call. Tell us your location in {{city}} and the problem (locked door, broken key, etc.). We'll send the nearest technician to you immediately.",
+        "solutions_tag": "What We Do",
+        "solutions_title": "Practical Solutions for Your Doors",
+        "solutions_desc": "We have the knowledge and tools to handle any mishap with your home locks:",
+        "sol1": "Locked Door Opening",
+        "sol1_desc": "We open your door using professional methods that don't damage the lock or the door.",
+        "sol2": "Cylinder/Barrel Replacement",
+        "sol2_desc": "We change your door's keys by installing a new cylinder on the spot.",
+        "sol3": "Lock Repair",
+        "sol3_desc": "If the lock is stiff or not working well, we maintain or replace the worn parts.",
+        "sol4": "Smart Locks",
+        "sol4_desc": "We install and configure electronic and digital locks for greater daily convenience.",
+        "sol5": "24h Urgent Service",
+        "sol5_desc": "Immediate assistance for any residential lockout or lost key situation.",
+        "neighborhoods_tag": "Proximity",
+        "neighborhoods_title": "Service in all Neighborhoods of {{city}}",
+        "neighborhoods_desc": "We cover all areas and surroundings of {{city}}. We have mobile technicians positioned for fast response.",
+        "special_title": "Technical Locksmith in {{city}}",
+        "special_desc": "We are specialists in damage-free opening. If your door in {{city}} slammed with the key inside, we solve it without needing to change the lock in 90% of cases.",
+        "faq_title": "FAQ",
+        "faq_q1": "How long does it take for the locksmith to arrive in {{city}}?",
+        "faq_a1": "We always try to arrive as fast as possible. In {{city}}, the average wait time is between 20 to 30 minutes.",
+        "internal_link1": "To solve your problem, trust our <0>locksmith service in {{city}}</0>.",
+        "internal_link2": "Check all our services on the <0>homepage</0>."
+    },
+    "location": {
+        "tag": "Where We Are",
+        "title": "Service Location",
+        "address_title": "Base of Operations:"
+    },
+    "brands_section": {
+        "tag": "Quality Material",
+        "title": "We Work with Top Brands",
+        "desc": "We use locks and cylinders from the most known brands: Tesa, Lince, Fichet, MCM, and Cisa."
+    },
+    "cars_section": {
+        "tag": "Technical Team",
+        "title": "Professional Locksmiths at Your Service"
+    },
+    "footer": {
+        "desc": "We help local families solve lock problems with speed, technique, and honesty.",
+        "company": "The Company",
+        "nav_home": "Home",
+        "nav_about": "About Us",
+        "nav_services": "Services",
+        "nav_portfolio": "Work",
+        "nav_zones": "Service Areas",
+        "social": "Social Media",
+        "contact": "Urgent Contact",
+        "need_help": "Need help?",
+        "aviso": "LEGAL NOTICE",
+        "privacidad": "PRIVACY",
+        "cookies": "COOKIES",
+        "rights": "© 2026 Locksmith Solutions. 24h Residential Locksmith. All rights reserved."
+    },
+    "faq": {
+        "tag": "Frequently Asked Questions",
+        "title": "We Answer Your Questions",
+        "q1": "Why choose our service?",
+        "a1": "We are fast, honest residential locksmiths available 24h with an official guarantee on all door opening and lock replacement work.",
+        "q2": "How can I request a quote?",
+        "a2": "You can call us directly or send a WhatsApp with a photo of your lock or door to receive a no-obligation quote in minutes.",
+        "q3": "Can you open my door without breaking anything?",
+        "a3": "Yes, we specialize in damage-free technical opening. In 99% of cases, we open your home without breaking the cylinder or damaging the door.",
+        "q4": "What is the service cost?",
+        "a4": "The price depends on the complexity of the job, but we always offer competitive rates and transparent quotes before starting.",
+        "q5": "Do you have lock spare parts in stock?",
+        "a5": "Yes, we have a wide stock of cylinders and locks from leading brands like Tesa, Lince, Fichet and Cisa for immediate installation.",
+        "q6": "Are you available 24 hours?",
+        "a6": "Absolutely! We handle residential emergencies every day of the year, including holidays and late nights throughout the area."
+    },
+    "cookies": {
+        "title": "Cookie Use",
+        "desc": "We use cookies to make the site work better. You can accept or choose your preferences.",
+        "accept": "Accept",
+        "decline": "Decline",
+        "settings": "Configure",
+        "hide_settings": "Close",
+        "tech_title": "LEGAL NOTICE",
+        "tech_desc": "Legal information about the use of this site.",
+        "analysis_title": "PRIVACY POLICY",
+        "analysis_desc": "How we handle your personal data.",
+        "marketing_title": "COOKIES POLICY",
+        "marketing_desc": "Details about the cookies we use.",
+        "read_more": "Learn more"
+    },
+    "inline_cta1": {
+        "title": "Don't stay locked out! Your home is one step away.",
+        "subtitle": "Technician at your home in under 20 min. Expert opening GUARANTEED with zero damage to your lock. Best price in the area.",
+        "btn": "SEND URGENT TECHNICIAN"
+    }
+}
